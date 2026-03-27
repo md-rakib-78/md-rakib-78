@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-rakib-78&label=Profile%20views&color=0e75b6&style=flat" alt="md-rakib-78" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-rakib-78" alt="md-rakib-78" /></a> </p>
 
 - 🔭 I’m currently working on [Reliable USB File Transfer System](https://github.com/md-rakib-78/reliable-usb-file-transfer-system-with-auto-resume-support)
 
