@@ -2,7 +2,7 @@
 
 <img align="center" alt="line" width="100%" src="https://github.com/md-rakib-78/md-rakib-78/blob/main/Hi-I-am-Md-Rakibul-Islam-3-27-2026.gif">
 
-<h3 align="center">A passionate Software developer from Bangladesh</h3>
+<h3 align="center">A passionate Java developer from Bangladesh</h3>
 <img align="center" alt="line" width="100%" height="60" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTMybnJpcG1ldGEwZzh3dzR4dWMza2w5OXZjdGl1OWtsbjU1MTNwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TIj8cbzWYKnE9ul3ab/giphy.gif">
 
 <img align="center" alt="line" width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3c3bGFnc2kyYWV2NTI5d2lqdmt1dXdwMDV2dHdjZXlzaHRpMzUxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxY9kuM2NGUfvThe/giphy.gif">
